@@ -16,28 +16,28 @@ Wyatt Destabelle<br/>
 * Stay on track and achieve goals
 * Become more aware of behaviors to change or stop
 * Use an app that:
-⋅⋅* Has clear directions
-⋅⋅* Is easy to use
-⋅⋅* Includes:
-⋅⋅⋅⋅* Widgets
-⋅⋅⋅⋅* Customizable notifications
-⋅⋅⋅⋅* Interactive elements (e.g., games)
-⋅⋅⋅⋅* Charts to visualize progress
-⋅⋅⋅⋅* Ability to share information with friends
-⋅⋅⋅⋅* Smartwatch integration
+  * Has clear directions
+  * Is easy to use
+  * Includes:
+    * Widgets
+    * Customizable notifications
+    * Interactive elements (e.g., games)
+    * Charts to visualize progress
+    * Ability to share information with friends
+    * Smartwatch integration
 * Stay motivated through: 
-⋅⋅* Internal decision-making (needs to find something important)
-⋅⋅* Visual progress and identifying patterns
-⋅⋅* Words of encouragement
+  * Internal decision-making (needs to find something important)
+  * Visual progress and identifying patterns
+  * Words of encouragement
 * Have a "one-stop shop" for tracking multiple habits, instead of using different apps for:
-⋅⋅* Water intake
-⋅⋅* Weight
-⋅⋅* Exercise
-⋅⋅* Standing
-⋅⋅* Sleep
+  * Water intake
+  * Weight
+  * Exercise
+  * Standing
+  * Sleep
 * Keep tracking engaging with: 
-⋅⋅* Achievements
-⋅⋅* Option to watch an ad to revive a lost streak
+  * Achievements
+  * Option to watch an ad to revive a lost streak
 
 **Problems and Frustrations**<br/>
 * Apps that are not user-friendly
