@@ -48,18 +48,43 @@ Wyatt Destabelle<br/>
 * Dislikes losing streaks in tracking apps
 * Has tried to-do lists but gave up on them
 * Would not use a notes or reflections feature
+
+
+#### Interview: Anna Li, Finance Student
+**Goals and Needs:**<br/>
+- checkboxes
+- headings & colour coding to group assignments/subjects
+- calendar & list view
+- can use emojis
+
+**Problems and Frustrations**<br/>
+- not much organisation in notes app of diff notes so i out all my lists in one note and it gets long
+- in planner i dont like when theres prompts for me to fill in
+- boring
+- not enough space or too much space given to fill things in
+
  
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a user, I want an application that is easy to use so that I continue to track my habits
+2. As a user, I want an application that is aesthetically pleasing so that I continue to use the application
+3. As a user, I want to check off my tasks so that I can feel accomplished.
+4. As a user, I want to delete tasks so that I can keep my habits aligned with my goals
+5. As a user, I want to be able to edit my habits so that I can keep them up to date and change them if needed. 
 
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+#### Activity Diagram 1: based off of "As a user, I want to delete tasks so that I can keep my habits aligned with my goals"
+
+
+#### Activity Diagram 1: based off of "As a user, I want to be able to edit my habits so that I can keep them up to date and change them if needed"
+![edit](editHabit.png)
+
 
 ## Clickable Prototype
 
