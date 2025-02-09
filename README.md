@@ -4,11 +4,51 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Julia Ahn
+Sophia Schlichting
+Wyatt Destabelle
+[Emily Ney]( https://github.com/EmilyNey)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+#### Interview: Alison Evans, School Founder
+**Goals and Needs:**
+*Stay on track and achieve goals
+*Become more aware of behaviors to change or stop
+*Use an app that:
+⋅⋅*Has clear directions
+⋅⋅*Is easy to use
+⋅⋅*Includes:
+⋅⋅⋅⋅*Widgets
+⋅⋅⋅⋅*Customizable notifications
+⋅⋅⋅⋅*Interactive elements (e.g., games)
+⋅⋅⋅⋅*Charts to visualize progress
+⋅⋅⋅⋅*Ability to share information with friends
+⋅⋅⋅⋅*Smartwatch integration
+*Stay motivated through: 
+⋅⋅*Internal decision-making (needs to find something important)
+⋅⋅*Visual progress and identifying patterns
+⋅⋅*Words of encouragement
+*Have a "one-stop shop" for tracking multiple habits, instead of using different apps for:
+⋅⋅*Water intake
+⋅⋅*Weight
+⋅⋅*Exercise
+⋅⋅*Standing
+⋅⋅*Sleep
+*Keep tracking engaging with: 
+⋅⋅*Achievements
+⋅⋅*Option to watch an ad to revive a lost streak
+
+**Problems and Frustrations**
+*Apps that are not user-friendly
+*Excessive reminders when missing a habit
+*High costs of habit-tracking apps
+*Losing motivation when running out of achievements
+*Finds Apple’s built-in tracking tools boring
+*Dislikes losing streaks in tracking apps
+*Has tried to-do lists but gave up on them
+*Would not use a notes or reflections feature
+ 
 
 ## Product Vision Statement
 
