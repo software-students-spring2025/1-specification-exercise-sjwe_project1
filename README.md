@@ -77,12 +77,10 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-
 #### Activity Diagram 1: based off of "As a user, I want to delete tasks so that I can keep my habits aligned with my goals"
 
 
-#### Activity Diagram 1: based off of "As a user, I want to be able to edit my habits so that I can keep them up to date and change them if needed"
+#### Activity Diagram 2: based off of "As a user, I want to be able to edit my habits so that I can keep them up to date and change them if needed"
 ![edit](editHabit.png)
 
 
