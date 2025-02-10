@@ -52,15 +52,6 @@ Wyatt Destabelle<br/>
 - Has tried to-do lists but gave up on them
 - Would not use a notes or reflections feature
 
-* Apps that are not user-friendly
-* Excessive reminders when missing a habit
-* High costs of habit-tracking apps
-* Losing motivation when running out of achievements
-* Finds Apple’s built-in tracking tools boring
-* Dislikes losing streaks in tracking apps
-* Has tried to-do lists but gave up on them
-* Would not use a notes or reflections feature
-
 #### Interview: Anna Li, Finance Student
 
 **Goals and Needs:**<br/>
@@ -97,12 +88,6 @@ Wyatt Destabelle<br/>
   - Bloat like notes or social features not only not helpful, but not welcome
 - Allowing for 'one time habits' (grocery lists, etc) would clog up the app, make them less likely to use
 
-* Don't want to have to rewrite habits every night
-* Doesn't want ways to 'cheat' habit system
-* Doesn't want to spend more than a few minutes on the app per day
-  - Bloat like notes or social features not only not helpful, but not welcome
-* Allowing for 'one time habits' (grocery lists, etc) would clog up the app, make them less likely to use
-
 #### Interview: Tanya Thakkar, Dental Student
 
 **Goals and Needs:**<br/>
@@ -114,8 +99,8 @@ Wyatt Destabelle<br/>
 
 **Problems and Frustrations**<br/>
 
-- never found a habit tracker she has liked, so she has never tried
-- does not like when apps are boring/not easy to use
+- Never found a habit tracker she has liked, so she has never tried
+- Does not like when apps are boring/not easy to use
 
 ## Product Vision Statement
 
