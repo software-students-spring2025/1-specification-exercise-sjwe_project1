@@ -39,7 +39,7 @@ Wyatt Destabelle<br/>
   * Achievements
   * Option to watch an ad to revive a lost streak
 
-**Problems and Frustrations**<br/>
+**Problems and Frustrations:**<br/>
 * Apps that are not user-friendly
 * Excessive reminders when missing a habit
 * High costs of habit-tracking apps
@@ -52,16 +52,16 @@ Wyatt Destabelle<br/>
 
 #### Interview: Anna Li, Finance Student
 **Goals and Needs:**<br/>
-- checkboxes
-- headings & colour coding to group assignments/subjects
-- calendar & list view
-- can use emojis
+- Checkboxes
+- Headings & colour coding to group assignments/subjects
+- Calendar & list view
+- Can use emojis
 
-**Problems and Frustrations**<br/>
-- not much organisation in notes app of diff notes so i out all my lists in one note and it gets long
-- in planner i dont like when theres prompts for me to fill in
-- boring
-- not enough space or too much space given to fill things in
+**Problems and Frustrations:**<br/>
+- Not much organization in notes app - all lists are in one note and it gets long
+- In a planner I don't like when there are prompts to fill in
+- Boring
+- Not enough space or too much space given to fill things in
 
 
 #### Interview: Raphael Huang, Student and Teaching Assistant
@@ -74,7 +74,7 @@ Wyatt Destabelle<br/>
   * Customizable frequency for habits (once a week, every day, every tues/thurs, etc)
   * Able to see what is 'up next' for the day, what habits still need to be completed
 
-**Problems and Frustrations**<br/>
+**Problems and Frustrations:**<br/>
   * Don't want to have to rewrite habits every night
   * Doesn't want ways to 'cheat' habit system
   * Doesn't want to spend more than a few minutes on the app per day 
@@ -107,4 +107,4 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Figma](https://www.figma.com/design/H70Jf8Pc0ZHEpe3BMvZBvR/SJWE_Project1?node-id=0-1&t=yoExYij4sZ6LjhrM-1)
