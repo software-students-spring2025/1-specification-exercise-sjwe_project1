@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Julia Ahn](https://github.com/juliaahn)<br/>
-Sophia Schlichting<br/>
+[Sophia Schlichting](https://github.com/schlichtings)<br/>
 Wyatt Destabelle<br/>
 [Emily Ney](https://github.com/EmilyNey)<br/>
 
