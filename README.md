@@ -63,6 +63,27 @@ Wyatt Destabelle<br/>
 - boring
 - not enough space or too much space given to fill things in
 
+
+#### Interview: Raphael Huang, Student and Teaching Assistant
+**Goals and Needs:**<br/>
+  * Easy to check and check off habits, especially when lazy
+    * As few gestures as possible between app opening and habit checking / checking off
+  * More likely to use if customizable, looks good
+  * Ability to track both once a day habits (i.g. making bed in the morning) and multiple times per day habits (i.g. brushing teeth)
+  * Visualization of consistency/ ability to view data on consistency of habit
+  * Customizable frequency for habits (once a week, every day, every tues/thurs, etc)
+  * Able to see what is 'up next' for the day, what habits still need to be completed
+
+**Problems and Frustrations**<br/>
+  * Don't want to have to rewrite habits every night
+  * Doesn't want ways to 'cheat' habit system
+  * Doesn't want to spend more than a few minutes on the app per day 
+    * Bloat like notes or social features not only not helpful, but not welcome
+  * Allowing for 'one time habits' (grocery lists, etc) would clog up the app, make them less likely to use
+    
+
+
+
  
 ## Product Vision Statement
 
