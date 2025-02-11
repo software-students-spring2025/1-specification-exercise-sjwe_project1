@@ -6,12 +6,12 @@ A little exercise to get started with the specification phase of the software de
 
 [Julia Ahn](https://github.com/juliaahn)<br/>
 [Sophia Schlichting](https://github.com/schlichtings)<br/>
-Wyatt Destabelle<br/>
+[Wyatt Destabelle] (https://github.com/Wyatt-Destabelle)<br/>
 [Emily Ney](https://github.com/EmilyNey)<br/>
 
 ## Stakeholders
 
-#### Interview: Alison Evans, School Founder
+### Interview: Alison Evans, School Founder
 
 **Goals and Needs:**<br/>
 
@@ -52,7 +52,7 @@ Wyatt Destabelle<br/>
 - Has tried to-do lists but gave up on them
 - Would not use a notes or reflections feature
 
-#### Interview: Anna Li, Finance Student
+### Interview: Anna Li, Finance Student
 
 **Goals and Needs:**<br/>
 
@@ -68,7 +68,7 @@ Wyatt Destabelle<br/>
 - Boring
 - Not enough space or too much space given to fill things in
 
-#### Interview: Raphael Huang, Student and Teaching Assistant
+### Interview: Raphael Huang, Student and Teaching Assistant
 
 **Goals and Needs:**<br/>
 
@@ -88,7 +88,7 @@ Wyatt Destabelle<br/>
   - Bloat like notes or social features not only not helpful, but not welcome
 - Allowing for 'one time habits' (grocery lists, etc) would clog up the app, make them less likely to use
 
-#### Interview: Tanya Thakkar, Dental Student
+### Interview: Tanya Thakkar, Dental Student
 
 **Goals and Needs:**<br/>
 
@@ -111,13 +111,15 @@ Our habit tracker application provides users with an easy and engaging way to ac
 1. As a user, I want an application that is easy to use so that I continue to track my habits
 2. As a user, I want an application that is aesthetically pleasing so that I continue to use the application
 3. As a user, I want to check off my tasks so that I can feel accomplished.
-4. As a user, I want to delete tasks so that I can keep my habits aligned with my goals
-5. As a user, I want to be able to edit my habits so that I can keep them up to date and change them if needed.
-6. As a user, I want to keep track of my daily habits so that I can help achieve my goals.
-7. As a user, I want to keep track of my daily habits so that I can stay organized.
-8. As a user, I want to see my progress for the day so that I can adjust my schedule accordingly.
-9. As a user, I want to see my streak for completing a daily habit so that I can stay motivated to complete my habits everyday
-10. As a user, I want to receive awards for my long streaks so that I can feel a sense of accomplishment when doing my habits for long periods of time.
+4. As a user, I want the process of checking off my habits to take as few steps as possible, so that there is as little friction as possible in the process of checking off habits.
+5. As a user, I want to delete tasks so that I can keep my habits aligned with my goals
+6. As a user, I want to be able to edit my habits so that I can keep them up to date and change them if needed.
+7. As a user, I want to keep track of my daily habits so that I can help achieve my goals.
+8. As a user, I want to keep track of my daily habits so that I can stay organized.
+9. As a user, I want to see my progress for the day so that I can adjust my schedule accordingly.
+10. As a user, I want to see my streak for completing a daily habit so that I can stay motivated to complete my habits everyday
+11. As a user, I want to see the data of when I do and do not complete my daily habits so that I can form better plans for ensuring my habits are completed daily. 
+12. As a user, I want to receive awards for my long streaks so that I can feel a sense of accomplishment when doing my habits for long periods of time.
 
 ## Activity Diagrams
 
