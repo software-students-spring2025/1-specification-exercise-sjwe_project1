@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Julia Ahn](https://github.com/juliaahn)<br/>
 [Sophia Schlichting](https://github.com/schlichtings)<br/>
-[Wyatt Destabelle] (https://github.com/Wyatt-Destabelle)<br/>
+[Wyatt Destabelle](https://github.com/Wyatt-Destabelle)<br/>
 [Emily Ney](https://github.com/EmilyNey)<br/>
 
 ## Stakeholders
@@ -133,4 +133,4 @@ Our habit tracker application provides users with an easy and engaging way to ac
 
 ## Clickable Prototype
 
-[Figma](https://www.figma.com/design/H70Jf8Pc0ZHEpe3BMvZBvR/SJWE_Project1?node-id=0-1&t=yoExYij4sZ6LjhrM-1)
+[Figma](https://www.figma.com/proto/H70Jf8Pc0ZHEpe3BMvZBvR/SJWE_Project1?node-id=5-4&p=f&t=PqaqD7dXsvcv8S3t-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A4&show-proto-sidebar=1)
